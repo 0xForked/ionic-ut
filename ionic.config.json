@@ -1,0 +1,7 @@
+{
+  "name": "exp-ionic-ut",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
